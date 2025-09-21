@@ -66,8 +66,13 @@ Computer Science student at Kle Tech
 - Studying networking (JUNOS / Cisco), routing protocols, and system design.
 
 ### 📫 How to reach me
-- GitHub: [dilip-rajpurohit](https://github.com/dilip-rajpurohit)
+<p>
+  <a href="https://www.linkedin.com/in/dilip-rajpurohit132/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 
 <!-- *Proudly created with GPRM ( https://gprm.itsvg.in )* -->
