@@ -57,12 +57,8 @@ Computer Science student at Kle Tech
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=dilip-rajpurohit&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ### 🔭 Currently
-- Working on Mininet / Mininet-WiFi experiments, network automation and SDN.
+- Working on networking monitoring sysytem .
 - Studying networking (JUNOS / Cisco), routing protocols, and system design.
 
 ### 📫 How to reach me
